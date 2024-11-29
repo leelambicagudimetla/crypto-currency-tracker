@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.table-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.table-main-container {
+  display: flex;
+  flex-direction: column;
+}
+.img-item {
+  display: flex;
+  flex-direction: row;
+}

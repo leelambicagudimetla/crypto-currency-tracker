@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.blog-container {
+  background-color: black;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+.list-div-container {
+  background-color: black;
+}
